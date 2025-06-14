@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">🧙‍♂️ Configurateur Minecraft</h1>
+<p align="center">Créateur d’expériences de jeu sur-mesure depuis 2021</p>
 
-<!--
-**Vedlyk/vedlyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/-YAML-000?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JSON-000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WinSCP-509100?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Termius-2D2D2D?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pterodactyl-7289DA?style=for-the-badge&logo=pterodactyl&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+> 🔐 Une partie de mes contributions sont sur des dépôts privés (missions freelance & entreprises), mais visibles dans mon graphique d'activité.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vedlyk&theme=tokyonight&border_radius=10" />
+</p>
+

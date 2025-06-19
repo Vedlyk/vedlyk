@@ -1,4 +1,3 @@
-<h1 align="center">🧙‍♂️ Configurateur Minecraft</h1>
 <p align="center">Créateur d’expériences de jeu sur-mesure depuis 2021</p>
 
 <p align="center">
